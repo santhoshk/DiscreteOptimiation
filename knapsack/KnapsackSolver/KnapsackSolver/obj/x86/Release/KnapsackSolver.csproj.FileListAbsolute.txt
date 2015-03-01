@@ -1,0 +1,8 @@
+C:\Users\santhosh\AppData\Local\Temporary Projects\KnapsackSolver\bin\Release\KnapsackSolver.exe
+C:\Users\santhosh\AppData\Local\Temporary Projects\KnapsackSolver\bin\Release\KnapsackSolver.pdb
+C:\Users\santhosh\AppData\Local\Temporary Projects\KnapsackSolver\obj\x86\Release\KnapsackSolver.exe
+C:\Users\santhosh\AppData\Local\Temporary Projects\KnapsackSolver\obj\x86\Release\KnapsackSolver.pdb
+C:\Users\santhosh\documents\visual studio 2010\Projects\KnapsackSolver\KnapsackSolver\obj\x86\Release\KnapsackSolver.exe
+C:\Users\santhosh\documents\visual studio 2010\Projects\KnapsackSolver\KnapsackSolver\obj\x86\Release\KnapsackSolver.pdb
+C:\Users\santhosh\documents\visual studio 2010\Projects\KnapsackSolver\KnapsackSolver\bin\Release\KnapsackSolver.exe
+C:\Users\santhosh\documents\visual studio 2010\Projects\KnapsackSolver\KnapsackSolver\bin\Release\KnapsackSolver.pdb

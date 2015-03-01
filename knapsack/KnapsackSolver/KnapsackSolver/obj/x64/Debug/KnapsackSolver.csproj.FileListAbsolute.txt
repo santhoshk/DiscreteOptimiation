@@ -1,0 +1,5 @@
+D:\san\Algo\courses\Coursera-DsicreteOptimization PascalVanHentenryck\code\knapsack\KnapsackSolver\KnapsackSolver\bin\x64\Debug\KnapsackSolver.exe
+D:\san\Algo\courses\Coursera-DsicreteOptimization PascalVanHentenryck\code\knapsack\KnapsackSolver\KnapsackSolver\bin\x64\Debug\KnapsackSolver.pdb
+D:\san\Algo\courses\Coursera-DsicreteOptimization PascalVanHentenryck\code\knapsack\KnapsackSolver\KnapsackSolver\obj\x64\Debug\KnapsackSolver.exe
+D:\san\Algo\courses\Coursera-DsicreteOptimization PascalVanHentenryck\code\knapsack\KnapsackSolver\KnapsackSolver\obj\x64\Debug\KnapsackSolver.pdb
+D:\san\Algo\courses\Coursera-DsicreteOptimization PascalVanHentenryck\code\knapsack\KnapsackSolver\KnapsackSolver\obj\x64\Debug\ResolveAssemblyReference.cache

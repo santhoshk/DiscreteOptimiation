@@ -1,0 +1,8 @@
+C:\Users\santhosh\documents\visual studio 2010\Projects\KnapsackSolver\KnapsackSolver\bin\Debug\KnapsackSolver.exe
+C:\Users\santhosh\documents\visual studio 2010\Projects\KnapsackSolver\KnapsackSolver\bin\Debug\KnapsackSolver.pdb
+C:\Users\santhosh\documents\visual studio 2010\Projects\KnapsackSolver\KnapsackSolver\obj\x86\Debug\KnapsackSolver.exe
+C:\Users\santhosh\documents\visual studio 2010\Projects\KnapsackSolver\KnapsackSolver\obj\x86\Debug\KnapsackSolver.pdb
+D:\san\Algo\courses\Coursera-DsicreteOptimization PascalVanHentenryck\code\knapsack\KnapsackSolver\KnapsackSolver\obj\x86\Debug\KnapsackSolver.exe
+D:\san\Algo\courses\Coursera-DsicreteOptimization PascalVanHentenryck\code\knapsack\KnapsackSolver\KnapsackSolver\obj\x86\Debug\KnapsackSolver.pdb
+D:\san\Algo\courses\Coursera-DsicreteOptimization PascalVanHentenryck\code\knapsack\KnapsackSolver\KnapsackSolver\bin\Debug\KnapsackSolver.exe
+D:\san\Algo\courses\Coursera-DsicreteOptimization PascalVanHentenryck\code\knapsack\KnapsackSolver\KnapsackSolver\bin\Debug\KnapsackSolver.pdb
